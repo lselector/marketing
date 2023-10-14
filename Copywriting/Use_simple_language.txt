@@ -1,0 +1,281 @@
+Use simple language.
+Flesch-Kincaid
+
+Please use simple language, short phrases.
+ 
+To estimate readability of your text you can use the Flesch-Kincaid formula.
+MS Word has its own built-in mechanism
+Google for: Flesch-Kincaid MS Word
+
+You will find many instructions on how to do it in MS Word.
+
+Alternatively you can copy/paste text into this online form:
+
+- http://www.online-utility.org/english/readability_test_and_improve.jsp 
+
+It gives you score like this:
+
+90 – 100 easily understood by an average 11-year old student
+60 – 70 easily understood by 13-15 year old students
+0 – 30 best understood by university graduates
+ 
+You need to get your score to 70 – or even higher.
+
+================================================================
+Read this article:
+ - https://www.awai.com/2007/12/clarity-of-your-writing/
+
+How to Improve the Clarity of Your Writing
+By Michael Masterson
+
+How to Consistently Score 8.5 or Below
+on the Flesch-Kincaid Grading Scale
+
+In most areas of life, getting high grades means you
+are doing well. When it comes to writing, however, the
+most popular grading system works inversely.
+
+The Flesch-Kincaid (FK) scale is a statistical program
+designed to measure simplicity of expression.
+Simplicity of expression, some publishers believe, is
+an important quality of good writing.
+
+I am a big proponent of simplicity of expression. And
+I’ve been recommending the FK to fellow writers and
+publishing clients for many years as a useful tool to
+achieve simplicity. Early to Rise requires its written
+submissions to be graded on the FK scale. And
+Stansberry & Associates uses it for all its
+promotional copy.
+
+The FK program calculates the average number of words
+per sentence, the average number of syllables per
+sentence, and the frequency of passive and complex
+constructions.
+
+Most magazine and newspaper writing falls between
+grade levels 8.0 and 12.0. Academic and scientific
+text is generally in the 10.0 to 14.0 range. Dialog
+tends to be graded at the 4.0 to 6.0 levels. The text
+you have been reading in this article so far, for
+example, has an FK score of 10.2.
+
+A grade level close to 11 is considered moderately
+difficult to understand. Some writers feel “moderately
+difficult” is perfectly okay. But I don’t want my
+writing to be moderately difficult. I want it to be
+easy to understand. An FK score of 7.0 to 8.5 is my
+goal.
+
+But does that make any sense? Is it reasonable to want
+to achieve a low FK grade for every essay I write?
+Shouldn’t some essays – those that express more
+complex thoughts – have higher FK grades?
+
+Can you really bring down the FK score without also
+bringing down the quality of the copy?
+
+The short answer is yes.
+
+Yes, you can get your FK scores into the 7.0 to 8.5
+range even if your copy is full of big, beautiful
+ideas. Not only will your ideas be preserved, they
+might even be improved by the simplicity.
+
+Let me prove it to you. Let me rewrite this article
+using a few of the tricks I’ve learned about good
+writing. Let’s see if I can get it down to 8.5 or
+below. Are you ready? Here goes:
+
+================================================
+Take Two!
+
+How to Consistently Score 8.5 or Below
+on the Flesch-Kincaid Grading Scale
+
+Steve Sjuggerud’s investment newsletter, True Wealth,
+has 70,000 subscribers – one of the highest
+circulations in the industry. It also has one of the
+highest renewal rates at more than 75%. Steve’s e-zine
+gets super-high open rates. And when he publishes a
+new report, his readers buy it in droves. By every
+standard of measurement, Steve is a very successful
+writer.
+
+What’s his secret? At a writing seminar in France last
+summer, he explained it:
+
+“When I started writing, Michael told me I had to
+learn to write more simply. He told me that successful
+writers have two skills: coming up with good ideas and
+expressing them clearly. I agreed with him about good
+ideas.
+
+“But I wasn’t sure that writing simply is that
+important. So I conducted a secret study. I scanned
+all of Agora’s writers and rated them on the grading
+scale Michael recommended. What I discovered surprised
+me. There was a direct relationship between simplicity
+and success. The writers who had the lowest Flesch-
+Kincaid scores had the highest renewal rates.
+
+“In fact, the three most successful writers all had
+the lowest FK grades. I decided Michael was right. I
+started using the program to simplify my writing. It
+was difficult. But gradually it became easy, almost
+automatic. I am convinced that the reason True Wealth
+has 70,000 readers today is because it is so easy to
+read.”
+
+Steve is not the only successful writer who believes
+in simplicity. Michael Palmer, who heads up Agora’s
+most successful copywriting team, insists that all his
+writers keep their FK scores below 8.0. That’s been
+the standard for The Golden Thread and Early to Rise
+recently, and it’s becoming a standard throughout
+Agora.
+
+Simplicity of expression is not the most important
+quality of good writing. Content ranks first. If you
+want to be a good writer, the most important thing to
+do is present your reader with good thinking. If your
+thoughts have quality, your writing will too.
+
+But if you express your good thoughts in a complex or
+clumsy way, you make it difficult for your readers to
+grasp them. Good ideas have the greatest impact when
+they are expressed simply and directly. A good
+thought, like a beautiful woman, should not be cloaked
+in a bundle of rags.
+
+The best tool I’ve found to measure simplicity is the
+Flesch-Kincaid grading scale. Flesch-Kincaid
+calculates the average number of words per sentence,
+the average number of syllables per sentence, and the
+frequency of passive and complex constructions.
+
+Most magazine and newspaper writing falls between
+grade levels 8.0 and 12.0. Academic and scientific
+text is generally in the 10.0 to 14.0 range. Dialog
+tends to be graded at the 4 to 6 levels. The text you
+have been reading so far in this rewritten article,
+for example, achieves a grade of 7.8.
+
+Does that surprise you?
+
+In less than 10 minutes, I was able to reduce my score
+from 10.2 to 7.8. You’ve just read what I did. None of
+the details were sacrificed. Nor was the main idea. In
+fact, my second effort is stronger. Don’t you think?
+
+I’ve had lots of conversations with writers about the
+FK program. Many of them went as follows:
+
+Self-Important Writer: Why should I get my writing
+below 8.5? That’s not even high school level.
+
+Me: The grade level has nothing to do with academic
+reading levels. That’s a popular myth.
+
+Self-Important Writer: Still, I don’t want to dumb-
+down my writing. I don’t want to write for people who
+are too dumb to understand me.
+
+Me: It’s not a question of dumb. It’s a question of
+efficiency. If you write simply, then all your
+readers, smart and dumb, can grasp your ideas more
+easily.
+
+Self-Important Writer: Let them work to understand me.
+My thoughts are worth it.
+
+Me (thinking): Maybe. Or maybe your thoughts are not
+so good. And you want to disguise them with
+complicated and confusing writing.
+
+I do believe that. When the thinking is weak, the
+writer senses it. Rather than expose its weakness to
+the light of clarity, he obfuscates it with clumsy
+expressions.
+
+By the way, the Flesch-Kincaid grade level of this
+rewritten article is now 6.6.
+
+Is that amazing? Would you like to know how I did it?
+
+My Top Techniques for Scoring 8.5 or Below
+
+The most effective way to keep your writing good and
+simple is to write about one – and only one – big idea
+at a time. Figure out exactly what you want to say.
+Stick to that and eliminate other, unrelated ideas,
+even if you think they are interesting.
+
+Whenever appropriate, introduce that idea with a
+story. Stories have two advantages. First, they are
+concrete, not abstract. That means they are usually
+told with simple, active sentences. Such sentences get
+low scores on the FK scale. They are quickly read and
+easily comprehended.
+
+The second advantage is that stories involve readers
+emotionally. They make the reader care about the idea.
+In my first effort at writing this piece, I started
+academically, with an abstraction. Read it again and
+you will see how abstract it seems. Unless you already
+had a special knowledge of or interest in Flesch-
+Kincaid, you probably wouldn’t want to read past the
+first paragraph. In rewriting it, I began by
+introducing Steve Sjuggerud as a successful writer and
+telling his story. That made a big difference in the
+sentences I used. It brought the score down from 10.2
+to 7.8.
+
+By sticking to one idea, it is much easier to avoid
+complex sentences. Complex sentences are those that
+are linked by coordinating conjunctions, such as
+since, whereas, inasmuch as, notwithstanding,
+therefore, etc. Complex sentences are not always bad,
+but they are often unnecessary. When your thinking is
+unclear, they are more likely to appear.
+
+By starting with a story, I got my writing in the
+active voice. Active sentences (“John kicked the
+ball.”) score lower than passive sentences (“The ball
+was kicked by John.”) They are easier to understand.
+And they carry more emotional power.
+
+To get my score even lower, I used my secret Kincaid
+crusher – a technique I only recently discovered but
+will happily share with you. I dealt with possible
+objections to my thesis through dialog. Dialog, I’ve
+found, generally has a very low FK grade. If it is
+natural – i.e., the kind of speech that ordinary
+people engage in – it will grade at 4.0 to 6.0. Using
+dialog is not just a trick to fool the system. Like
+storytelling, it makes an idea come to life in an
+emotionally compelling way.
+
+There are certainly other secrets to be discovered.
+But if you employ any or all of these five, you will
+see a quick and dramatic reduction in your FK grade.
+Getting your grade down means bringing the clarity of
+your writing up. Despite what the self-important
+writers say, that’s a good thing.
+
+My final FK score for this entire rewritten article:
+
+     6.7
+
+[Ed. Note: 
+To “turn on” the FK program in Word, 
+•  click Tools on the toolbar, 
+•  then click Options, 
+•  then click Spelling & Grammar, 
+•  then select Check Grammar with Spelling, 
+•  then select Show Readability Statistics, 
+•  then click OK. 
+Once you’ve done that, the FK score will be displayed
+on your screen after you spell-check your document.]
+
+-- 
